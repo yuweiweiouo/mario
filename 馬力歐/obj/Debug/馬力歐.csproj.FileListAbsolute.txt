@@ -1,0 +1,28 @@
+c:\users\user\documents\visual studio 2015\Projects\馬力歐\馬力歐\bin\Debug\馬力歐.exe.config
+c:\users\user\documents\visual studio 2015\Projects\馬力歐\馬力歐\bin\Debug\馬力歐.exe
+c:\users\user\documents\visual studio 2015\Projects\馬力歐\馬力歐\bin\Debug\馬力歐.pdb
+c:\users\user\documents\visual studio 2015\Projects\馬力歐\馬力歐\obj\Debug\馬力歐.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\馬力歐\馬力歐\obj\Debug\馬力歐.exe
+c:\users\user\documents\visual studio 2015\Projects\馬力歐\馬力歐\obj\Debug\馬力歐.pdb
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\馬力歐.exe.config
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\obj\Debug\馬力歐.exe
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\obj\Debug\馬力歐.pdb
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\馬力歐.exe
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\馬力歐.pdb
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\mscorlib.dll
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\System.Net.Http.dll
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\System.Net.Http.xml
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\zh-Hant\mscorlib.resources.dll
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\zh-Hant\System.Net.Http.resources.dll
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\normidna.nlp
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\normnfc.nlp
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\normnfd.nlp
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\normnfkc.nlp
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\bin\Debug\normnfkd.nlp
+C:\Users\YuWeiOuO\Desktop\馬力歐\馬力歐\obj\Debug\馬力歐.csprojResolveAssemblyReference.cache
+D:\VS\馬力歐\馬力歐\bin\Debug\馬力歐.exe.config
+D:\VS\馬力歐\馬力歐\obj\Debug\馬力歐.exe
+D:\VS\馬力歐\馬力歐\obj\Debug\馬力歐.pdb
+D:\VS\馬力歐\馬力歐\bin\Debug\馬力歐.exe
+D:\VS\馬力歐\馬力歐\bin\Debug\馬力歐.pdb
+D:\VS\馬力歐\馬力歐\obj\Debug\馬力歐.csprojResolveAssemblyReference.cache
